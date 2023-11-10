@@ -1,0 +1,46 @@
+Privacy Policy for Bird Watching Adventure App
+
+Last Updated: [Date]
+
+1. Information We Collect
+
+1.1 Personal Information:
+
+The Bird Watching Adventure App may collect personal information, such as names and email addresses, for account registration and personalized features.
+1.2 Location Information:
+
+To provide hotspot directions and enhance user experience, the app may collect and process location data using GPS technology.
+1.3 Bird Sightings Data:
+
+Users have the option to voluntarily submit data about their bird sightings. This includes species, location, and timestamp.
+2. How We Use Information
+
+2.1 Personalization:
+
+Collected data may be used to personalize the app experience, such as providing tailored hotspot recommendations.
+2.2 Hotspot Directions:
+
+Location information is used to generate directions to selected birding hotspots.
+2.3 Bird Sightings Visualization:
+
+Data on bird sightings is utilized to create visualizations, such as interactive maps, showcasing the user's birding journey.
+2.4 Communication:
+
+Users may receive communication related to app updates, new features, or important information about their bird sightings.
+3. Data Security
+
+The Bird Watching Adventure App employs industry-standard security measures to protect user data against unauthorized access or disclosure.
+4. User Rights
+
+4.1 Access and Correction:
+
+Users have the right to access and correct their personal information stored within the app.
+4.2 Deletion:
+
+Users can request the deletion of their account and associated data.
+5. Policy Changes
+
+This privacy policy may be updated to reflect changes in data practices. Users will be notified of significant updates.
+6. Contact Information
+
+For questions or concerns about this privacy policy, please contact us at [your contact information].
